@@ -1,0 +1,9 @@
+cuenta_id,nombre,saldo,edad,tipo
+101,John Doe,5000,30,ahorro
+102,Jane Smith,8000,25,prestamo
+103,Bob Johnson,12000,30,prestamo
+104,Alice Brown,0,45,ahorro
+105,Charlie Green,7000,35,hipoteca
+106,John Doe,5000,30,ahorro
+107,Diana Prince,15000,40,prestamo
+108,Steve Rogers,10000,80,ahorro
