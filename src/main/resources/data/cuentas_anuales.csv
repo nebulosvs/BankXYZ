@@ -1,0 +1,1001 @@
+cuenta_id,fecha,transaccion,monto,descripcion
+103,08-03-2024,deposito,3000,Retiro parcial
+110,24-07-2024,retiro,1500,
+109,2024/03/18,deposito,3000,Ingreso mensual
+105,24/03/2024,deposito,1000,Ingreso navideño
+120,2024/04/11,compra,,Ingreso mensual
+120,2024-02-26,compra,1000,
+102,18-12-2024,compra,3000,
+105,2024/06/21,compra,3000,Ingreso extra
+111,2024/09/16,compra,2500,Ingreso mensual
+106,12/02/2024,deposito,-100,Ingreso navideño
+106,21-06-2024,deposito,2000,Ingreso extra
+106,2024/07/11,compra,1500,Ingreso navideño
+108,2024-02-15,compra,3000,Ingreso mensual
+110,13/11/2024,compra,-500,Ingreso mensual
+109,04/12/2024,retiro,1000,Compra en tienda
+102,19-04-2024,deposito,2000,
+108,2024-07-19,retiro,2000,Retiro parcial
+104,26-08-2024,retiro,2500,Compra en tienda
+120,09-03-2024,retiro,3000,Compra en tienda
+109,2024/05/02,deposito,3000,Ingreso mensual
+116,2024/12/24,compra,2500,Compra en tienda
+114,08/07/2024,compra,5000,Ingreso mensual
+119,2024/08/15,retiro,1500,Ingreso extra
+103,05-10-2024,compra,1000,Retiro parcial
+102,2024/09/30,depósito,2000,Ingreso navideño
+119,25/07/2024,retiro,-500,Ingreso mensual
+103,11-08-2024,pago,1000,Compra en tienda
+103,2024/12/19,compra,5000,Retiro parcial
+111,2024-03-10,retiro,-500,Retiro parcial
+111,2024-04-26,retiro,2000,Ingreso navideño
+108,2024-12-22,deposito,1000,Ingreso extra
+117,2024-01-11,deposito,-1000,Ingreso extra
+113,24/01/2024,compra,5000,Compra en tienda
+109,20-11-2024,retiro,-1000,Retiro parcial
+113,25-01-2024,deposito,-500,Ingreso navideño
+109,15/10/2024,retiro,-500,Ingreso extra
+103,2024-05-09,retiro,3000,Ingreso extra
+114,30-09-2024,deposito,1000,Ingreso mensual
+120,13/01/2024,deposito,1000,Retiro parcial
+113,2024-02-29,retiro,2500,Ingreso mensual
+109,2024-11-27,deposito,2000,
+117,30-05-2024,deposito,1000,Ingreso navideño
+118,2024-09-01,retiro,-100,Ingreso navideño
+112,2024/04/01,retiro,3000,Retiro parcial
+105,2024-01-17,compra,-500,Ingreso mensual
+116,2024/11/22,compra,2500,Compra en tienda
+108,2024-05-14,deposito,3000,Ingreso extra
+111,2024-07-19,compra,-100,Compra en tienda
+107,2024-11-30,deposito,3000,Compra en tienda
+111,2024/09/25,depósito,2000,Ingreso navideño
+107,2024-02-29,deposito,-500,
+102,2024/11/05,retiro,,Ingreso navideño
+114,23-04-2024,retiro,2000,Compra en tienda
+109,2024/03/09,deposito,3000,
+104,2024/11/01,retiro,-500,Ingreso navideño
+104,2024-02-02,retiro,-100,Ingreso mensual
+113,02/05/2024,retiro,-100,Retiro parcial
+113,11-01-2024,deposito,3000,Retiro parcial
+105,01/12/2024,deposito,2000,Ingreso mensual
+109,05-07-2024,retiro,-500,Compra en tienda
+106,2024/04/06,retiro,2500,Compra en tienda
+116,25/06/2024,retiro,2000,
+114,2024-09-04,compra,2500,Retiro parcial
+110,2024/02/15,deposito,0,Compra en tienda
+109,2024/11/26,retiro,2000,
+118,2024/05/19,retiro,2000,
+112,2024-07-23,compra,3000,Retiro parcial
+120,2024-08-18,deposito,1500,Compra en tienda
+104,2024/07/31,deposito,,Compra en tienda
+102,16-10-2024,deposito,2500,Retiro parcial
+117,2024-01-12,retiro,,Ingreso extra
+103,07-05-2024,compra,2000,Retiro parcial
+115,2024-08-15,compra,2000,Compra en tienda
+107,28/09/2024,retiro,-500,Ingreso extra
+116,2024/02/15,deposito,3000,Ingreso extra
+120,2024-10-27,retiro,3000,Ingreso extra
+119,19-07-2024,compra,2000,Compra en tienda
+118,2024/12/09,retiro,3000,
+115,13-10-2024,compra,2000,Compra en tienda
+101,16/02/2024,compra,-100,Retiro parcial
+118,27/04/2024,retiro,2000,Ingreso mensual
+110,11-02-2024,compra,-100,Ingreso extra
+118,2024-03-05,retiro,0,Ingreso navideño
+106,29/08/2024,pago,2000,
+105,03/03/2024,retiro,2500,Retiro parcial
+107,09-11-2024,retiro,1000,Compra en tienda
+119,11/06/2024,compra,-500,
+105,2024-04-01,depósito,1000,Retiro parcial
+116,09-02-2024,deposito,-100,
+114,2024/02/20,depósito,3000,Compra en tienda
+113,27/04/2024,retiro,3000,
+110,02/03/2024,deposito,2000,Compra en tienda
+101,2024-02-19,compra,2000,Retiro parcial
+102,23-11-2024,deposito,1000,
+112,08/03/2024,retiro,2500,
+111,2024-03-25,retiro,2500,Ingreso extra
+117,2024-05-18,deposito,,Ingreso mensual
+114,14/02/2024,retiro,3000,Ingreso mensual
+112,2024/10/17,retiro,-500,Retiro parcial
+108,05-01-2024,pago,-500,Retiro parcial
+116,02/08/2024,compra,-500,Compra en tienda
+107,2024/06/22,retiro,3000,Ingreso navideño
+105,2024-06-04,pago,-500,Ingreso extra
+106,2024-07-28,deposito,2000,Ingreso mensual
+119,2024-03-24,compra,1500,
+103,2024-09-24,retiro,-500,Ingreso extra
+107,2024-10-26,retiro,3000,Ingreso mensual
+114,2024-02-13,compra,2000,Ingreso extra
+116,2024/08/09,compra,-500,Ingreso extra
+114,14-04-2024,depósito,2000,
+118,2024-08-26,compra,5000,Compra en tienda
+101,2024-01-07,deposito,2500,Retiro parcial
+118,2024-08-04,compra,3000,
+106,2024-08-27,deposito,2500,
+120,2024-05-24,retiro,-500,Compra en tienda
+104,2024/11/07,compra,1000,Ingreso navideño
+115,2024-06-17,compra,1000,Ingreso navideño
+110,17-02-2024,compra,2500,Ingreso extra
+107,2024/01/28,retiro,1500,
+102,2024/11/24,retiro,-100,Retiro parcial
+106,2024/10/23,compra,-500,Ingreso navideño
+106,2024/08/31,compra,2500,
+114,2024-10-01,compra,2000,Ingreso extra
+119,2024/05/21,retiro,1500,
+109,21/05/2024,retiro,3000,Ingreso extra
+103,2024-07-12,deposito,,
+120,17/12/2024,retiro,1500,
+120,2024/12/28,retiro,-500,Ingreso navideño
+106,20-11-2024,pago,-100,Ingreso extra
+101,2024/07/16,retiro,2500,Ingreso navideño
+109,12/11/2024,compra,-100,Ingreso navideño
+103,2024-03-15,compra,5000,
+118,08/12/2024,retiro,1000,Ingreso mensual
+107,2024/12/30,retiro,-500,
+107,17-07-2024,retiro,2000,Ingreso mensual
+114,2024/10/16,retiro,,Ingreso mensual
+118,2024-03-05,compra,2000,Ingreso navideño
+116,23-11-2024,compra,2000,Ingreso navideño
+103,19/03/2024,compra,3000,Ingreso extra
+110,2024/06/22,pago,2000,
+105,26-10-2024,compra,-1000,Ingreso extra
+114,2024-04-16,deposito,2000,Compra en tienda
+103,2024-10-29,compra,2500,
+111,03/03/2024,compra,2000,Compra en tienda
+104,2024-09-06,retiro,-500,
+118,2024/08/13,deposito,-500,
+110,27/11/2024,retiro,2000,Retiro parcial
+114,07-05-2024,retiro,3000,Ingreso navideño
+113,30/09/2024,deposito,-500,Ingreso extra
+106,2024-11-26,pago,1500,Retiro parcial
+116,2024-04-19,pago,1500,Ingreso navideño
+117,25-06-2024,deposito,2500,
+106,2024-04-03,retiro,2000,
+105,21/09/2024,retiro,3000,Ingreso navideño
+120,2024/09/16,deposito,1500,Ingreso mensual
+103,27-01-2024,retiro,2000,Ingreso mensual
+114,2024-07-04,compra,-100,
+106,2024-04-26,compra,1000,Ingreso extra
+109,2024/11/10,retiro,2500,
+119,21/05/2024,compra,1000,Ingreso extra
+110,19/08/2024,retiro,2500,Retiro parcial
+106,2024/10/02,retiro,1500,Compra en tienda
+116,17/06/2024,depósito,1500,Ingreso navideño
+109,2024/05/20,compra,-500,Compra en tienda
+107,2024-09-26,compra,-100,
+110,2024/02/14,deposito,2500,Ingreso navideño
+105,2024-09-09,compra,-500,Compra en tienda
+104,2024/11/09,compra,3000,Ingreso mensual
+114,2024-05-22,compra,2000,Ingreso navideño
+116,2024/11/14,deposito,2500,Ingreso navideño
+102,08/02/2024,deposito,3000,Compra en tienda
+105,10/05/2024,retiro,2500,Ingreso navideño
+107,2024/11/16,deposito,1500,Ingreso extra
+114,30/10/2024,retiro,0,Compra en tienda
+102,2024/08/12,deposito,2500,Retiro parcial
+115,25-10-2024,deposito,0,Ingreso mensual
+107,26-11-2024,depósito,-500,Compra en tienda
+109,05/12/2024,retiro,2500,Ingreso mensual
+119,18/02/2024,pago,1000,Ingreso extra
+103,2024/10/29,compra,2500,Ingreso navideño
+103,2024-07-05,retiro,3000,Ingreso mensual
+112,2024-12-16,compra,-100,Ingreso mensual
+117,01/02/2024,retiro,-100,
+107,06-12-2024,depósito,2500,Retiro parcial
+108,2024-07-17,retiro,2500,Retiro parcial
+116,2024/09/15,compra,3000,Retiro parcial
+115,2024/04/22,compra,1500,Ingreso extra
+102,2024-09-24,retiro,1500,Compra en tienda
+114,2024-10-20,compra,-100,Ingreso navideño
+113,2024-04-05,deposito,1000,Ingreso navideño
+117,17/11/2024,depósito,3000,Ingreso mensual
+110,11/09/2024,deposito,1000,Retiro parcial
+104,2024-03-01,retiro,-500,Ingreso extra
+102,2024-12-28,retiro,-500,Compra en tienda
+119,2024/10/28,retiro,2000,Ingreso extra
+104,19/07/2024,retiro,1000,Compra en tienda
+110,2024/02/23,deposito,1000,Retiro parcial
+114,2024-02-07,retiro,3000,Ingreso extra
+109,2024/09/11,depósito,-100,Ingreso extra
+107,2024-07-02,depósito,2500,
+101,2024/07/09,retiro,-1000,Ingreso mensual
+114,2024-10-01,compra,1500,Ingreso mensual
+114,2024-07-09,compra,-500,
+116,15/06/2024,retiro,3000,Compra en tienda
+117,10-02-2024,compra,2500,Ingreso mensual
+104,11-01-2024,retiro,1000,Compra en tienda
+117,27-03-2024,deposito,1500,Compra en tienda
+119,25/09/2024,deposito,1000,Ingreso mensual
+112,2024-08-25,compra,2500,Ingreso navideño
+107,24-01-2024,deposito,3000,Compra en tienda
+115,2024-02-22,pago,3000,
+119,2024-07-11,deposito,2500,
+117,2024-09-27,pago,3000,Ingreso extra
+120,2024/09/01,deposito,1500,Compra en tienda
+110,2024/04/26,compra,3000,Ingreso mensual
+114,2024-03-03,compra,1500,Ingreso mensual
+111,08-07-2024,compra,2500,Ingreso extra
+108,16-08-2024,deposito,-100,Compra en tienda
+106,16-12-2024,deposito,2500,
+117,07-08-2024,compra,3000,Ingreso navideño
+108,20-12-2024,compra,-100,Ingreso navideño
+103,2024/05/06,compra,2000,Retiro parcial
+106,22-02-2024,retiro,-500,Compra en tienda
+118,2024-01-30,retiro,2500,Ingreso mensual
+117,2024-02-15,retiro,-100,Compra en tienda
+107,01-07-2024,deposito,-100,Retiro parcial
+107,21-03-2024,deposito,,Compra en tienda
+116,2024-03-23,deposito,2000,Compra en tienda
+113,2024-12-04,deposito,-500,
+105,03-08-2024,deposito,1500,Ingreso navideño
+115,2024/11/17,compra,-500,Ingreso extra
+107,2024/03/07,deposito,3000,
+106,26/06/2024,deposito,1000,Compra en tienda
+118,2024-04-12,compra,-500,Compra en tienda
+120,2024/02/14,deposito,2500,
+111,2024-06-07,compra,1500,
+119,2024-08-03,compra,5000,Compra en tienda
+108,18-01-2024,compra,2000,Ingreso extra
+101,2024/10/16,deposito,-100,Retiro parcial
+115,22/06/2024,deposito,-500,Ingreso extra
+105,2024-04-15,retiro,3000,Ingreso navideño
+112,2024-03-23,deposito,1000,Ingreso mensual
+118,2024-08-25,deposito,-100,
+107,24/10/2024,retiro,2500,Ingreso navideño
+107,08/12/2024,compra,,Retiro parcial
+120,30/10/2024,deposito,1000,Ingreso navideño
+111,2024-02-15,retiro,2500,Compra en tienda
+106,19/10/2024,deposito,,
+108,2024-12-12,compra,2000,Ingreso extra
+108,12-12-2024,compra,-100,Ingreso extra
+104,10/07/2024,compra,1500,
+102,09-02-2024,retiro,1500,Ingreso navideño
+103,2024/09/24,deposito,1500,
+112,12-06-2024,deposito,3000,Ingreso navideño
+105,2024-08-11,deposito,,Compra en tienda
+112,2024/04/01,compra,2500,
+108,2024-12-08,retiro,1500,
+108,30-09-2024,retiro,-500,
+106,2024/07/20,deposito,2500,Retiro parcial
+102,2024-04-29,retiro,2000,
+113,20-07-2024,compra,2500,Retiro parcial
+119,24-10-2024,compra,2000,
+107,2024/03/18,compra,5000,
+108,2024-02-21,depósito,1500,Retiro parcial
+120,24/03/2024,retiro,2000,Compra en tienda
+112,05-07-2024,depósito,1000,Compra en tienda
+104,07/01/2024,compra,1000,Retiro parcial
+112,2024-12-11,retiro,3000,
+110,03/11/2024,compra,-100,Ingreso extra
+108,2024-09-29,deposito,,Ingreso extra
+113,28-12-2024,deposito,2000,
+116,02-11-2024,depósito,2000,Ingreso mensual
+106,02-02-2024,compra,1500,Compra en tienda
+114,30/05/2024,compra,2500,
+113,2024/12/11,depósito,1500,Compra en tienda
+107,16-02-2024,compra,2500,Ingreso mensual
+102,11-03-2024,deposito,-100,
+108,13-03-2024,deposito,2000,Retiro parcial
+101,22/03/2024,retiro,2000,Retiro parcial
+105,2024-04-03,retiro,1000,Retiro parcial
+105,14-08-2024,retiro,1000,Ingreso navideño
+103,23/07/2024,compra,3000,Retiro parcial
+109,2024/01/21,depósito,2000,Ingreso navideño
+103,2024-02-12,compra,3000,Compra en tienda
+120,2024/02/03,retiro,2500,
+102,01-11-2024,compra,-100,Retiro parcial
+111,16-02-2024,retiro,2000,Ingreso mensual
+104,08-08-2024,compra,-100,Ingreso mensual
+106,2024-09-27,compra,-100,Ingreso mensual
+106,04/04/2024,compra,2500,Retiro parcial
+117,29-08-2024,retiro,1000,Ingreso mensual
+116,2024/05/13,retiro,1000,Ingreso mensual
+106,2024/05/04,compra,-500,Retiro parcial
+105,2024-12-13,compra,3000,Ingreso mensual
+120,04/03/2024,compra,2500,
+104,2024/10/10,retiro,2500,Ingreso navideño
+116,2024-11-01,deposito,-100,Compra en tienda
+101,03-06-2024,deposito,2000,Compra en tienda
+118,19/08/2024,compra,1500,Ingreso mensual
+106,03-09-2024,compra,3000,
+101,25-09-2024,deposito,2500,Ingreso mensual
+101,2024-12-26,deposito,-100,
+118,2024-04-18,deposito,3000,Retiro parcial
+111,28-03-2024,deposito,5000,Ingreso navideño
+118,2024/10/11,compra,3000,Ingreso mensual
+109,2024/11/09,retiro,2000,Compra en tienda
+109,31/10/2024,retiro,5000,
+108,2024/01/26,retiro,3000,Ingreso mensual
+114,2024-10-29,retiro,2500,Ingreso mensual
+111,2024-07-30,depósito,3000,Compra en tienda
+110,2024/11/15,compra,-100,Retiro parcial
+116,17-01-2024,retiro,-100,Ingreso navideño
+101,04/02/2024,depósito,2500,Compra en tienda
+106,25-07-2024,compra,1500,
+107,11/08/2024,retiro,-100,Ingreso extra
+104,30/07/2024,compra,3000,Retiro parcial
+119,2024/02/29,compra,,Ingreso mensual
+115,31/10/2024,compra,1500,Ingreso mensual
+111,09-04-2024,retiro,2500,Ingreso mensual
+114,21-02-2024,pago,-500,Ingreso extra
+104,31-01-2024,retiro,1500,Compra en tienda
+117,2024/08/26,depósito,3000,Ingreso mensual
+114,2024/10/03,compra,3000,Ingreso extra
+101,07-03-2024,retiro,-100,
+102,2024/12/24,pago,3000,Ingreso extra
+119,27/07/2024,retiro,-500,Compra en tienda
+116,2024/10/31,retiro,3000,
+108,23/10/2024,retiro,2000,Compra en tienda
+118,19/01/2024,retiro,5000,Ingreso extra
+112,22/11/2024,compra,2000,Ingreso navideño
+101,2024/01/17,pago,-100,
+117,05-09-2024,deposito,2000,Ingreso mensual
+108,2024/06/30,compra,2500,
+109,2024-01-22,retiro,-100,
+104,26/05/2024,deposito,2500,Ingreso navideño
+108,31/10/2024,deposito,-500,Retiro parcial
+109,21-10-2024,deposito,2500,Ingreso navideño
+115,2024/07/12,compra,1500,
+106,2024/03/23,compra,2000,Compra en tienda
+115,19/06/2024,compra,2000,
+113,13/06/2024,deposito,-500,Ingreso mensual
+109,12/02/2024,compra,-100,Retiro parcial
+104,2024/03/19,retiro,-500,Ingreso extra
+110,2024/11/25,compra,2000,Ingreso mensual
+104,16-07-2024,compra,1000,
+120,03-10-2024,deposito,2500,Compra en tienda
+120,2024/12/21,compra,-500,Compra en tienda
+103,29-07-2024,compra,3000,Ingreso navideño
+107,09/04/2024,deposito,1000,Ingreso mensual
+115,2024/12/22,retiro,-100,Ingreso mensual
+108,22-09-2024,retiro,-500,Ingreso extra
+111,04/12/2024,depósito,1000,Ingreso extra
+110,2024/07/08,retiro,2000,
+116,2024/10/07,compra,3000,Retiro parcial
+103,02-09-2024,retiro,1500,Ingreso navideño
+108,12-03-2024,deposito,-500,Ingreso mensual
+113,14-09-2024,deposito,2000,Ingreso mensual
+118,2024-09-01,compra,-100,Ingreso mensual
+112,12-06-2024,retiro,-500,Ingreso navideño
+119,23-12-2024,compra,-500,Ingreso navideño
+112,17-07-2024,retiro,-100,Ingreso mensual
+105,17/12/2024,retiro,,Retiro parcial
+115,2024/04/04,deposito,-100,Ingreso extra
+120,2024/07/10,compra,3000,
+104,2024/04/02,deposito,1500,Retiro parcial
+109,21/01/2024,deposito,2000,
+118,15-06-2024,retiro,3000,
+105,21/04/2024,retiro,1500,Ingreso extra
+103,2024-03-10,compra,3000,
+104,2024-07-17,compra,,Retiro parcial
+104,23-05-2024,compra,1500,Ingreso extra
+119,2024-05-22,deposito,1000,Ingreso mensual
+111,04/05/2024,deposito,,Ingreso navideño
+116,12-09-2024,deposito,3000,Ingreso mensual
+116,2024/10/06,retiro,2500,Ingreso extra
+116,22/09/2024,deposito,2000,Ingreso extra
+107,08/08/2024,compra,-500,Retiro parcial
+117,01-11-2024,deposito,,
+110,13-12-2024,deposito,1000,Ingreso extra
+102,2024/05/23,pago,-500,Ingreso mensual
+120,2024-07-26,retiro,,Ingreso mensual
+113,03/12/2024,retiro,2000,Ingreso navideño
+114,2024/05/14,retiro,3000,
+102,2024/08/30,retiro,,Ingreso navideño
+110,2024/05/01,retiro,2500,Compra en tienda
+111,2024-05-10,retiro,1500,Compra en tienda
+103,2024-07-15,pago,3000,
+102,2024/08/03,pago,1000,
+112,25-11-2024,deposito,1500,Ingreso navideño
+117,27-04-2024,compra,3000,Retiro parcial
+110,2024/08/11,compra,-500,Compra en tienda
+116,06/12/2024,retiro,2000,Ingreso mensual
+112,2024/08/26,retiro,1500,
+107,09/03/2024,deposito,-500,Ingreso mensual
+107,15-06-2024,compra,,
+117,2024/03/07,retiro,3000,Ingreso mensual
+101,06-10-2024,deposito,1500,Ingreso mensual
+116,2024-01-03,deposito,2500,Ingreso navideño
+117,2024/12/08,retiro,3000,Ingreso extra
+108,2024/11/02,deposito,2500,Ingreso extra
+102,2024/02/14,retiro,3000,
+119,24/10/2024,depósito,1000,Ingreso navideño
+118,26-03-2024,compra,1500,
+102,2024/10/12,retiro,1500,Ingreso mensual
+110,14-01-2024,pago,1500,Retiro parcial
+111,2024-11-04,retiro,3000,Retiro parcial
+109,2024/02/13,pago,-500,Ingreso extra
+114,2024-03-16,compra,,Retiro parcial
+109,2024/10/18,compra,1000,Retiro parcial
+105,12/01/2024,deposito,1000,Retiro parcial
+103,08-12-2024,deposito,-500,Compra en tienda
+115,2024-12-28,deposito,2500,
+116,2024/04/05,compra,-500,Ingreso navideño
+107,2024-05-31,deposito,-100,Retiro parcial
+101,22/12/2024,deposito,2500,Ingreso navideño
+104,2024-11-05,pago,2000,Ingreso mensual
+110,23/11/2024,compra,1500,Ingreso mensual
+101,2024-04-26,compra,1500,Ingreso extra
+115,13/11/2024,compra,2000,Compra en tienda
+101,12-06-2024,deposito,2000,Ingreso extra
+109,14-07-2024,depósito,2000,Ingreso mensual
+101,22-11-2024,retiro,1000,
+106,2024-09-26,deposito,-500,Ingreso extra
+119,2024-10-18,retiro,-100,Compra en tienda
+102,24/08/2024,retiro,-500,Retiro parcial
+113,2024-02-27,deposito,1000,Ingreso mensual
+108,17/07/2024,compra,3000,Ingreso extra
+112,2024-01-20,retiro,5000,
+119,2024-07-01,deposito,2000,
+117,2024/03/29,compra,2000,Compra en tienda
+113,2024-03-09,compra,-100,Compra en tienda
+111,2024/10/31,retiro,-500,
+120,15-04-2024,pago,1000,Compra en tienda
+112,2024-10-06,deposito,2000,Ingreso extra
+102,2024/05/26,pago,2500,Ingreso mensual
+105,24/05/2024,compra,3000,Ingreso mensual
+107,03/03/2024,retiro,1500,
+118,09/06/2024,retiro,,Ingreso navideño
+105,13-05-2024,deposito,-100,Retiro parcial
+106,2024-01-29,deposito,2500,
+104,2024/06/24,retiro,1000,
+109,30-08-2024,deposito,3000,
+118,17/12/2024,deposito,2500,Ingreso extra
+104,15/04/2024,compra,3000,Ingreso navideño
+107,2024/05/02,deposito,2500,Retiro parcial
+118,2024-11-14,retiro,-500,
+102,04/10/2024,compra,-500,Retiro parcial
+114,2024-04-23,deposito,1500,Compra en tienda
+119,2024-11-18,retiro,3000,Ingreso navideño
+111,25/01/2024,depósito,2500,Compra en tienda
+117,13-09-2024,pago,1500,Ingreso extra
+102,11/05/2024,retiro,-100,Ingreso extra
+112,2024-05-30,pago,-100,Ingreso navideño
+106,2024/07/20,compra,2000,Compra en tienda
+103,2024-12-23,retiro,2500,
+120,2024-02-07,deposito,1500,Retiro parcial
+120,16/01/2024,compra,2000,
+109,2024-11-14,deposito,1500,Compra en tienda
+113,2024-09-08,deposito,-100,Ingreso navideño
+109,10-03-2024,deposito,3000,Retiro parcial
+106,22/02/2024,compra,1000,Ingreso navideño
+105,10-07-2024,retiro,3000,Ingreso mensual
+102,09/12/2024,deposito,1500,Ingreso extra
+119,17-08-2024,compra,2500,
+120,2024-05-15,retiro,-500,Ingreso navideño
+110,2024/11/15,deposito,0,
+114,29/12/2024,deposito,2000,Compra en tienda
+102,2024-10-06,retiro,-500,
+109,2024-06-25,deposito,2500,Retiro parcial
+104,09-08-2024,compra,3000,
+116,2024/03/10,retiro,,Ingreso mensual
+115,2024-01-23,compra,1000,Ingreso extra
+119,08/08/2024,compra,1000,
+108,2024-11-23,retiro,1500,Compra en tienda
+112,01/06/2024,retiro,3000,Compra en tienda
+104,13-01-2024,compra,3000,Ingreso navideño
+117,25/04/2024,compra,-100,Retiro parcial
+115,2024-11-24,retiro,1500,
+112,09-08-2024,deposito,1500,Ingreso mensual
+114,2024/06/08,retiro,2000,
+120,2024/04/03,compra,2000,Retiro parcial
+113,29/10/2024,deposito,2000,
+115,2024/03/10,deposito,3000,Ingreso extra
+117,2024-11-07,compra,3000,Ingreso navideño
+114,2024/04/16,compra,1500,Retiro parcial
+104,04/01/2024,deposito,1000,Ingreso mensual
+113,02/12/2024,deposito,2000,Compra en tienda
+106,2024-06-28,retiro,1500,Ingreso mensual
+101,2024/08/24,compra,0,Compra en tienda
+104,31/05/2024,retiro,,
+105,2024/05/29,deposito,3000,Ingreso navideño
+115,01/03/2024,retiro,1000,
+104,2024/07/03,deposito,2000,Compra en tienda
+120,2024/02/12,compra,1500,Retiro parcial
+112,2024/04/06,compra,1500,Ingreso navideño
+120,2024-07-28,retiro,3000,Ingreso mensual
+110,2024-06-20,retiro,-500,Ingreso navideño
+115,25-04-2024,retiro,-100,Ingreso mensual
+111,25-09-2024,compra,2500,Ingreso navideño
+102,30/03/2024,compra,3000,
+116,15/05/2024,retiro,1000,Compra en tienda
+105,2024-01-29,compra,1000,Ingreso navideño
+110,17/04/2024,compra,3000,Ingreso navideño
+108,2024/11/21,deposito,-500,Ingreso navideño
+105,2024/04/20,retiro,-500,Retiro parcial
+110,2024/11/01,retiro,-500,Ingreso navideño
+108,2024/04/01,retiro,2500,
+120,2024/07/13,deposito,1500,Ingreso mensual
+117,27/04/2024,deposito,1500,Ingreso navideño
+120,2024/12/27,compra,-100,
+104,2024/07/07,deposito,-100,
+111,15/08/2024,deposito,1500,Ingreso extra
+106,27-08-2024,depósito,2000,Compra en tienda
+109,29-08-2024,retiro,2500,Retiro parcial
+113,13/12/2024,compra,,Ingreso navideño
+105,2024/07/01,compra,1500,
+112,18-07-2024,deposito,1000,Ingreso extra
+117,15/11/2024,deposito,0,Ingreso navideño
+103,2024-10-11,deposito,2500,
+102,20/10/2024,depósito,3000,Ingreso extra
+102,2024-03-02,compra,1000,Ingreso extra
+115,13-03-2024,compra,1500,Ingreso extra
+108,2024/10/01,retiro,1000,Retiro parcial
+116,28-05-2024,compra,3000,Compra en tienda
+102,2024/12/27,retiro,,Compra en tienda
+104,13-08-2024,retiro,-500,Ingreso mensual
+119,19-09-2024,retiro,-500,Ingreso navideño
+114,03/11/2024,retiro,2000,
+116,04-04-2024,compra,,Ingreso navideño
+108,03-02-2024,retiro,2500,Ingreso mensual
+109,2024-06-20,deposito,3000,
+106,25/03/2024,compra,2000,Ingreso extra
+106,22/08/2024,compra,-500,Ingreso mensual
+115,24/10/2024,retiro,1000,
+102,01-10-2024,compra,-500,Compra en tienda
+119,2024-12-13,retiro,1500,Ingreso extra
+106,25/06/2024,deposito,1000,Retiro parcial
+105,10/04/2024,retiro,-500,Retiro parcial
+115,2024/02/22,deposito,1500,
+113,2024/08/30,retiro,2000,Ingreso extra
+115,2024/04/24,deposito,2000,Ingreso mensual
+106,30/01/2024,retiro,-500,Compra en tienda
+118,19-06-2024,deposito,3000,
+113,09-06-2024,deposito,3000,Ingreso navideño
+110,24-03-2024,compra,-100,Ingreso extra
+107,2024-03-29,retiro,2000,Retiro parcial
+112,2024/04/29,retiro,2500,Ingreso navideño
+102,2024-05-18,compra,1000,
+102,2024-06-26,retiro,-100,Ingreso navideño
+101,07/03/2024,deposito,3000,
+111,06-10-2024,deposito,1500,Retiro parcial
+112,07-08-2024,retiro,3000,
+112,2024/09/06,deposito,0,Compra en tienda
+118,03-10-2024,deposito,3000,Ingreso mensual
+118,2024-05-12,pago,-500,
+116,14/11/2024,deposito,3000,
+110,07/03/2024,retiro,-100,Retiro parcial
+116,28-04-2024,deposito,1000,Ingreso navideño
+116,12-10-2024,deposito,-100,Ingreso extra
+118,07/04/2024,deposito,1000,Compra en tienda
+118,19-01-2024,retiro,1000,
+111,07-07-2024,deposito,2500,Retiro parcial
+118,2024-07-14,deposito,3000,Ingreso navideño
+117,2024-09-04,retiro,5000,
+102,09-08-2024,compra,3000,Ingreso navideño
+118,06-01-2024,compra,3000,Compra en tienda
+120,18-11-2024,retiro,2000,Ingreso extra
+108,21/06/2024,retiro,2500,
+105,04/07/2024,deposito,1000,
+101,2024-08-01,retiro,2000,Ingreso extra
+110,05/08/2024,deposito,1000,
+107,2024-04-03,retiro,-500,
+104,2024/08/29,retiro,2500,Ingreso mensual
+108,2024/11/17,deposito,-100,Ingreso mensual
+103,2024/05/08,compra,1000,Ingreso mensual
+102,13-03-2024,compra,-100,Ingreso extra
+102,2024/10/11,retiro,1500,Ingreso mensual
+101,2024/04/20,compra,-100,Ingreso navideño
+114,2024/04/13,compra,-100,Ingreso extra
+105,2024/03/11,retiro,,Ingreso navideño
+105,14/02/2024,retiro,-100,Ingreso navideño
+112,2024-09-27,deposito,2000,
+119,16-02-2024,deposito,-500,Retiro parcial
+101,2024-04-08,retiro,-100,
+118,01/08/2024,deposito,2500,
+108,2024-04-17,compra,2000,Retiro parcial
+106,15/03/2024,compra,2500,Ingreso extra
+105,12/01/2024,retiro,1500,Ingreso extra
+102,03-04-2024,retiro,3000,Ingreso mensual
+106,11-12-2024,deposito,-100,
+112,2024/10/16,retiro,-100,Ingreso navideño
+106,22-02-2024,compra,1500,Ingreso extra
+120,06-08-2024,deposito,-500,Retiro parcial
+105,30/11/2024,deposito,-500,Ingreso navideño
+103,04-09-2024,deposito,-500,Ingreso navideño
+115,26/07/2024,compra,-500,Retiro parcial
+104,01/10/2024,pago,-500,Retiro parcial
+109,18-03-2024,compra,-500,Ingreso extra
+118,12/09/2024,compra,-100,Retiro parcial
+111,05/08/2024,retiro,-100,Compra en tienda
+103,26-10-2024,compra,2000,Ingreso mensual
+109,17-02-2024,deposito,1000,Ingreso navideño
+114,2024-08-10,deposito,-500,Retiro parcial
+109,2024-09-03,retiro,,Ingreso navideño
+115,2024/09/14,compra,-100,Ingreso mensual
+114,2024-02-19,retiro,1000,Ingreso navideño
+104,2024-04-02,retiro,-100,Ingreso mensual
+106,07-12-2024,retiro,2500,Ingreso navideño
+108,29-01-2024,retiro,3000,Ingreso navideño
+101,17/01/2024,retiro,-100,Compra en tienda
+116,2024/05/25,deposito,3000,Ingreso mensual
+118,11/01/2024,retiro,,
+110,24/12/2024,retiro,3000,Retiro parcial
+102,2024-10-10,retiro,-100,Ingreso navideño
+106,2024-07-12,deposito,-100,Retiro parcial
+114,2024-03-26,deposito,2000,Ingreso navideño
+105,2024-06-07,deposito,2000,Ingreso mensual
+120,27-02-2024,retiro,5000,
+119,2024/07/25,retiro,2500,Ingreso navideño
+114,2024/09/16,compra,,Ingreso extra
+106,31/08/2024,compra,-100,Ingreso navideño
+103,25-06-2024,deposito,1500,
+112,01/12/2024,compra,2000,Ingreso extra
+106,10/04/2024,deposito,-500,
+109,11-05-2024,retiro,3000,Compra en tienda
+114,22/12/2024,depósito,1500,Ingreso mensual
+105,09/12/2024,retiro,1500,Ingreso navideño
+109,20/07/2024,deposito,1500,Ingreso navideño
+109,11-11-2024,compra,3000,Ingreso mensual
+105,2024/04/18,pago,3000,Retiro parcial
+114,10-12-2024,deposito,1500,
+105,2024-05-23,compra,-100,Ingreso extra
+103,2024/04/03,compra,2500,Retiro parcial
+102,23-04-2024,compra,2000,Ingreso navideño
+101,2024-06-30,deposito,1500,Ingreso extra
+106,2024-01-29,compra,1000,Retiro parcial
+105,04-12-2024,compra,1000,
+105,27-01-2024,deposito,2000,Retiro parcial
+105,16-08-2024,deposito,2500,Ingreso extra
+117,2024-08-02,deposito,-100,Compra en tienda
+113,29/10/2024,compra,2000,Compra en tienda
+104,17/02/2024,depósito,1500,Retiro parcial
+118,2024-02-18,deposito,2500,
+107,08-05-2024,compra,,Retiro parcial
+117,2024/11/17,depósito,1500,Retiro parcial
+105,28/11/2024,deposito,1500,Ingreso extra
+103,09-05-2024,deposito,-500,Retiro parcial
+112,2024/03/15,compra,,Ingreso extra
+108,03-09-2024,compra,1000,Retiro parcial
+114,2024/10/10,compra,1500,
+118,2024/02/07,compra,3000,Ingreso extra
+107,2024/12/12,retiro,2000,Ingreso mensual
+103,22-04-2024,compra,-100,Compra en tienda
+102,16/04/2024,deposito,1500,Ingreso mensual
+101,05/09/2024,deposito,2500,Ingreso extra
+117,2024-03-01,deposito,3000,Ingreso extra
+107,28-08-2024,pago,-500,Retiro parcial
+119,2024/05/13,deposito,2000,Ingreso navideño
+104,01/10/2024,deposito,-100,
+107,2024/06/18,compra,2000,Retiro parcial
+112,2024/05/11,pago,1500,Ingreso navideño
+101,29-04-2024,deposito,3000,Ingreso extra
+107,2024-10-31,retiro,-100,
+117,2024-05-21,deposito,1500,Ingreso extra
+119,13/02/2024,retiro,3000,Retiro parcial
+113,2024/09/13,retiro,,
+102,07/03/2024,retiro,2500,Ingreso mensual
+106,2024-12-04,retiro,2000,Ingreso extra
+116,2024/08/20,deposito,1500,
+115,24-10-2024,retiro,1500,
+119,11-09-2024,compra,2000,Compra en tienda
+112,2024/03/19,depósito,1500,Compra en tienda
+119,2024/02/11,deposito,0,Compra en tienda
+111,2024-06-29,deposito,2500,Ingreso mensual
+115,03-11-2024,compra,1000,Ingreso navideño
+101,11/11/2024,compra,1000,Ingreso navideño
+113,29-02-2024,deposito,2000,Ingreso navideño
+109,24-05-2024,retiro,1000,Retiro parcial
+116,11/07/2024,compra,-500,
+111,2024-09-26,retiro,-500,Compra en tienda
+117,2024/01/13,retiro,1000,Compra en tienda
+114,2024/09/23,deposito,-100,Ingreso navideño
+113,2024-09-02,depósito,3000,Compra en tienda
+108,2024/11/07,retiro,2500,Ingreso extra
+113,2024-05-11,compra,2500,
+116,2024-06-30,retiro,1000,Ingreso extra
+110,13-07-2024,deposito,3000,Ingreso extra
+116,27/06/2024,deposito,5000,Ingreso navideño
+108,2024/11/14,compra,3000,
+118,07-10-2024,compra,3000,Retiro parcial
+104,31-05-2024,retiro,1500,Retiro parcial
+104,30-08-2024,retiro,-100,
+118,04/04/2024,retiro,2000,
+116,28/08/2024,deposito,2500,
+111,2024/01/18,compra,2500,
+116,2024/11/18,retiro,3000,Ingreso extra
+103,2024/06/03,compra,-100,Ingreso extra
+114,01/09/2024,retiro,2500,
+110,2024-11-03,compra,-500,Ingreso mensual
+112,12-01-2024,depósito,1500,Ingreso extra
+109,2024/06/20,retiro,1000,Retiro parcial
+117,20-07-2024,retiro,2500,
+119,20/08/2024,deposito,2500,Compra en tienda
+110,21/11/2024,retiro,-100,
+115,2024/04/08,compra,1000,Ingreso navideño
+103,13-09-2024,compra,,
+119,2024/04/11,pago,2000,Ingreso extra
+101,30-01-2024,depósito,3000,Compra en tienda
+116,2024/03/08,compra,2000,Ingreso extra
+102,2024-08-13,compra,5000,Retiro parcial
+118,14/03/2024,deposito,3000,Retiro parcial
+118,2024-04-21,deposito,-500,Ingreso navideño
+112,2024/02/08,deposito,-500,
+116,2024/07/05,retiro,2000,
+115,17/09/2024,compra,2500,
+106,15/06/2024,compra,2500,Ingreso navideño
+114,2024/10/22,retiro,1500,Retiro parcial
+108,2024-12-17,deposito,1000,Retiro parcial
+111,2024-10-22,depósito,3000,
+108,2024-04-17,retiro,1500,Ingreso extra
+111,2024-06-24,compra,1000,
+101,2024/06/20,deposito,-100,
+104,08-05-2024,deposito,-100,
+118,2024/11/08,compra,-500,Ingreso navideño
+102,14-01-2024,compra,1500,Retiro parcial
+105,2024-03-07,deposito,1000,Ingreso extra
+105,26/04/2024,deposito,-500,Ingreso mensual
+111,18-04-2024,compra,-100,Ingreso mensual
+107,2024/12/14,compra,1500,Retiro parcial
+104,2024-08-12,deposito,1000,Ingreso mensual
+106,22-11-2024,deposito,2500,Compra en tienda
+105,2024-04-29,compra,-100,Ingreso mensual
+110,02-07-2024,pago,2500,Compra en tienda
+117,13-06-2024,retiro,1500,Ingreso extra
+116,13/11/2024,compra,1500,Ingreso extra
+104,28/07/2024,deposito,-500,Ingreso navideño
+114,05/12/2024,retiro,1500,Compra en tienda
+114,2024-11-14,deposito,-100,Ingreso mensual
+109,15/05/2024,deposito,2500,Retiro parcial
+111,21/07/2024,retiro,1500,Ingreso mensual
+106,2024-10-12,compra,1500,Ingreso navideño
+119,2024/09/20,compra,2500,Retiro parcial
+115,13-04-2024,depósito,3000,Ingreso extra
+113,08/11/2024,compra,1500,
+111,26-09-2024,retiro,1000,Ingreso mensual
+110,2024/08/03,compra,1000,
+110,2024-09-09,retiro,-100,Compra en tienda
+103,05/06/2024,depósito,-100,Retiro parcial
+107,2024-03-19,compra,1000,Ingreso extra
+101,2024-08-04,compra,2000,Compra en tienda
+111,2024/05/01,deposito,1500,Ingreso extra
+109,23-09-2024,retiro,-500,Ingreso mensual
+104,23/05/2024,compra,3000,Ingreso navideño
+110,10-03-2024,retiro,-100,
+105,2024/05/16,deposito,-500,Ingreso extra
+115,2024-11-29,deposito,1000,Ingreso extra
+103,17/01/2024,compra,-100,Compra en tienda
+103,2024-09-28,deposito,-100,Ingreso mensual
+111,2024/02/09,retiro,3000,Ingreso extra
+119,2024/01/29,deposito,0,
+116,2024-02-16,compra,2000,
+107,27-11-2024,retiro,2500,
+102,2024-11-14,compra,1500,Retiro parcial
+116,2024/04/06,deposito,3000,Ingreso mensual
+116,14-02-2024,deposito,1000,Ingreso extra
+107,2024/12/26,deposito,2000,
+114,20/05/2024,retiro,1000,Ingreso navideño
+117,11/07/2024,compra,2500,Ingreso extra
+114,2024-04-10,depósito,-500,Ingreso navideño
+102,2024-09-08,depósito,2000,Compra en tienda
+105,2024/09/28,compra,2500,
+120,15/09/2024,retiro,-500,Compra en tienda
+101,09-01-2024,compra,1500,
+108,17/11/2024,retiro,-100,
+111,2024/06/08,retiro,3000,Ingreso extra
+116,2024/10/15,compra,-100,Ingreso navideño
+119,16/07/2024,deposito,2500,Ingreso navideño
+116,01-02-2024,retiro,3000,Ingreso navideño
+106,2024-03-12,compra,3000,Ingreso extra
+119,23-09-2024,compra,2000,Retiro parcial
+106,2024-11-11,deposito,-500,Ingreso extra
+118,03-03-2024,retiro,1500,Ingreso mensual
+106,01-07-2024,compra,3000,Ingreso mensual
+116,29/10/2024,compra,3000,Retiro parcial
+115,2024-06-24,deposito,-500,Ingreso navideño
+108,2024-07-08,retiro,-100,Ingreso navideño
+110,2024/08/08,compra,-500,Ingreso extra
+101,2024-07-20,retiro,2000,Compra en tienda
+110,08-02-2024,compra,,Retiro parcial
+102,2024/07/20,compra,1500,Ingreso mensual
+108,2024-04-16,compra,3000,Compra en tienda
+105,01/09/2024,deposito,,Ingreso mensual
+103,2024/09/29,compra,-100,
+107,2024/10/10,deposito,2000,Ingreso mensual
+107,24-01-2024,deposito,-500,Ingreso mensual
+112,02/09/2024,compra,1500,
+106,17/06/2024,deposito,2000,Ingreso navideño
+101,2024-11-23,compra,1500,Compra en tienda
+107,2024/05/05,compra,3000,Ingreso mensual
+115,12-08-2024,retiro,2000,Ingreso extra
+101,2024/06/28,depósito,1500,Ingreso extra
+112,24/08/2024,deposito,3000,Retiro parcial
+116,08-06-2024,deposito,-500,
+107,14-02-2024,compra,1500,Retiro parcial
+119,2024-09-29,deposito,-100,Ingreso mensual
+110,30/05/2024,compra,2500,Ingreso mensual
+112,20-03-2024,deposito,3000,Retiro parcial
+114,26-07-2024,compra,2000,Ingreso navideño
+106,2024-10-19,retiro,1500,
+107,2024-05-05,deposito,2500,
+105,2024/02/15,deposito,1000,Ingreso extra
+106,18-03-2024,deposito,1500,Ingreso mensual
+104,16-03-2024,compra,2000,Compra en tienda
+113,16/08/2024,compra,2000,Ingreso navideño
+112,09/01/2024,compra,5000,Ingreso extra
+113,09/10/2024,compra,-500,Ingreso extra
+105,2024/02/06,retiro,-100,Retiro parcial
+107,2024/10/17,pago,2500,
+101,03-04-2024,pago,1500,Retiro parcial
+105,2024-02-18,retiro,3000,Retiro parcial
+102,2024-07-28,retiro,1000,
+116,19/03/2024,compra,-500,Ingreso navideño
+102,06/12/2024,deposito,2500,Retiro parcial
+101,2024/08/31,deposito,3000,
+120,2024-03-21,deposito,2500,Ingreso navideño
+114,2024/06/06,retiro,2000,Ingreso extra
+110,2024/06/06,compra,-100,Compra en tienda
+107,16-12-2024,compra,3000,Compra en tienda
+116,2024/06/12,deposito,1500,Ingreso mensual
+115,27/09/2024,deposito,2500,Ingreso navideño
+104,2024/05/30,retiro,2500,Compra en tienda
+109,15-07-2024,compra,0,Compra en tienda
+118,2024-05-22,retiro,1000,Ingreso extra
+119,06-08-2024,deposito,1000,Retiro parcial
+108,2024/10/12,pago,-100,Compra en tienda
+103,03/10/2024,compra,1500,Ingreso navideño
+108,01-12-2024,retiro,1000,
+106,30/05/2024,depósito,2500,Ingreso navideño
+101,12-01-2024,compra,-500,
+109,05-08-2024,compra,3000,Ingreso navideño
+114,2024-05-18,deposito,,Retiro parcial
+115,10-01-2024,compra,2500,
+101,2024/05/25,deposito,-100,Ingreso mensual
+114,2024/01/22,depósito,-500,Ingreso mensual
+107,02-01-2024,retiro,2000,Ingreso extra
+119,09-09-2024,deposito,2000,Ingreso navideño
+120,2024/02/07,retiro,-100,Ingreso mensual
+112,2024/08/11,deposito,,
+101,2024/09/02,depósito,3000,Ingreso navideño
+107,2024-02-07,deposito,,Ingreso navideño
+101,2024-09-30,deposito,-500,
+106,15/09/2024,deposito,2000,
+110,26/05/2024,retiro,3000,
+105,23/09/2024,compra,1000,
+118,20/05/2024,retiro,,Ingreso mensual
+109,2024-04-03,compra,1500,Ingreso extra
+107,2024-08-29,depósito,-100,Retiro parcial
+111,29-10-2024,retiro,2500,
+117,11/03/2024,deposito,2500,Retiro parcial
+112,21-06-2024,retiro,1500,
+105,2024/02/21,compra,1000,Ingreso extra
+107,03-12-2024,compra,-500,
+108,2024-12-20,retiro,2000,Retiro parcial
+105,22-04-2024,retiro,-500,
+107,18/02/2024,pago,2000,Compra en tienda
+101,01-09-2024,compra,,
+118,2024/10/27,depósito,2500,Compra en tienda
+102,2024/05/30,retiro,3000,
+103,20/04/2024,depósito,2000,Retiro parcial
+119,25-06-2024,compra,2500,Ingreso extra
+111,2024/08/08,compra,3000,
+108,2024-01-27,retiro,2000,Ingreso extra
+107,11-05-2024,retiro,3000,Compra en tienda
+101,2024-11-24,deposito,-100,
+104,2024-06-20,compra,-500,Ingreso extra
+109,2024-08-19,retiro,-500,Compra en tienda
+101,27-05-2024,deposito,,Ingreso navideño
+108,20-12-2024,depósito,2500,Ingreso mensual
+104,18-01-2024,retiro,5000,Ingreso extra
+113,2024-05-02,compra,-100,Retiro parcial
+114,15-02-2024,deposito,3000,Ingreso mensual
+104,19-09-2024,deposito,2500,Compra en tienda
+105,07-08-2024,deposito,2500,
+108,19/11/2024,retiro,2000,Ingreso navideño
+102,29/11/2024,compra,,Compra en tienda
+108,22-01-2024,depósito,-500,
+114,2024/02/21,depósito,1000,Compra en tienda
+109,2024/02/07,compra,2000,Compra en tienda
+111,2024-04-29,deposito,5000,Ingreso mensual
+117,25-11-2024,retiro,3000,Ingreso navideño
+112,2024/08/30,depósito,-500,Retiro parcial
+112,2024/11/06,deposito,2000,Retiro parcial
+101,22/04/2024,compra,2500,Ingreso mensual
+107,2024/06/16,retiro,2500,Ingreso mensual
+114,2024-05-17,compra,-100,Ingreso extra
+113,13/02/2024,pago,3000,Ingreso extra
+118,23-10-2024,retiro,1500,Compra en tienda
+106,28-10-2024,retiro,2500,Ingreso navideño
+105,08/01/2024,compra,-100,Ingreso extra
+116,18/12/2024,deposito,,Ingreso navideño
+112,26-02-2024,deposito,3000,Ingreso mensual
+110,03/04/2024,deposito,-100,
+111,2024-02-16,retiro,1500,
+119,30/04/2024,compra,2500,Ingreso navideño
+117,31-07-2024,compra,1000,
+115,17-10-2024,retiro,-100,Retiro parcial
+120,01-05-2024,compra,3000,Retiro parcial
+107,06/04/2024,retiro,,Ingreso mensual
+119,2024-10-26,compra,2000,Retiro parcial
+105,07-10-2024,compra,-100,Ingreso navideño
+116,06-09-2024,deposito,-100,Retiro parcial
+118,12/04/2024,deposito,-100,Ingreso extra
+118,2024-12-28,compra,1500,
+113,2024-11-21,retiro,1000,Compra en tienda
+104,25/08/2024,deposito,1500,Retiro parcial
+117,20/04/2024,deposito,1000,Retiro parcial
+110,2024/07/08,deposito,1500,Ingreso navideño
+113,03-09-2024,retiro,3000,
+115,2024/01/10,deposito,-1000,Retiro parcial
+102,11-05-2024,retiro,2000,
+108,2024-02-20,retiro,-100,Compra en tienda
+107,2024-12-21,compra,1500,
+102,17-12-2024,deposito,-100,Compra en tienda
+115,2024/04/30,compra,2500,
+114,2024/11/17,compra,-100,Compra en tienda
+106,2024/06/08,compra,2500,Ingreso navideño
+117,2024-07-20,compra,-500,Compra en tienda
+111,2024-03-11,depósito,-500,Ingreso extra
+116,14/05/2024,compra,3000,
+113,2024/05/09,compra,2500,Ingreso mensual
+120,12-08-2024,retiro,-500,
+116,2024-07-28,compra,-1000,Ingreso navideño
+104,2024/11/17,retiro,2000,Ingreso navideño
+108,2024-09-22,deposito,1000,Compra en tienda
+117,2024/02/01,deposito,1500,Ingreso mensual
+115,09-02-2024,compra,0,
+111,27-04-2024,deposito,-100,Compra en tienda
+104,2024-08-10,deposito,-500,Ingreso navideño
+117,19-04-2024,retiro,,Retiro parcial
+107,2024-01-15,deposito,-100,Ingreso navideño
+114,19-02-2024,deposito,-500,
+110,2024/09/10,deposito,2500,
+116,2024-10-07,retiro,2000,Compra en tienda
+112,09/11/2024,deposito,1000,Compra en tienda
+101,2024/01/25,deposito,1000,Ingreso extra
+119,04/06/2024,compra,3000,
+105,11/01/2024,pago,2500,Retiro parcial
+119,2024-05-26,compra,1000,Compra en tienda
+119,27/10/2024,deposito,2500,
+102,16/07/2024,deposito,-500,Ingreso navideño
+112,12/02/2024,retiro,2000,Ingreso navideño
+115,05/01/2024,compra,1500,
+113,2024-11-13,pago,2000,Ingreso extra
+111,27/12/2024,compra,-500,Ingreso mensual
+120,02-11-2024,depósito,3000,Ingreso extra
+114,13-11-2024,compra,2500,Ingreso extra
+115,2024/12/01,pago,-100,Ingreso mensual
+107,13/05/2024,compra,1000,Ingreso navideño
+108,25/09/2024,deposito,1500,Ingreso extra
+114,2024/08/31,deposito,3000,Ingreso mensual
+102,2024-02-09,compra,-100,
+114,02/04/2024,retiro,2000,Ingreso mensual
+118,2024/08/17,deposito,3000,Ingreso mensual
+116,16/07/2024,retiro,3000,
+111,07-03-2024,deposito,,Ingreso mensual
+112,2024-10-01,deposito,1000,Retiro parcial
+107,2024-04-21,deposito,1000,Retiro parcial
+114,2024/05/30,compra,2000,
+118,04-12-2024,retiro,1000,Ingreso extra
+120,05/06/2024,compra,1000,Retiro parcial
+113,11/01/2024,compra,-100,
+109,2024-03-22,depósito,1500,Compra en tienda
+113,2024-11-07,compra,-500,Ingreso navideño
+105,2024/01/04,retiro,1000,Ingreso navideño
+118,2024/04/03,deposito,3000,Compra en tienda
+108,2024/06/13,compra,1000,Retiro parcial
+105,11/02/2024,pago,1500,Retiro parcial
+109,2024-11-09,compra,3000,Ingreso mensual
+118,2024-11-11,compra,3000,Ingreso navideño
+111,20/06/2024,compra,-100,Ingreso navideño
+112,13/11/2024,deposito,-500,
+111,2024-12-11,pago,1500,Ingreso mensual
+109,27/01/2024,deposito,1000,Compra en tienda
+115,2024/02/14,deposito,1000,Compra en tienda
+110,13/11/2024,compra,2500,Retiro parcial
+103,20/06/2024,retiro,3000,Ingreso mensual
+104,20/10/2024,compra,1500,Ingreso mensual
+112,2024-12-27,retiro,-1000,Ingreso navideño
+106,2024-04-23,compra,-500,Ingreso extra
+119,2024/02/07,compra,3000,Ingreso navideño
+119,2024/12/15,deposito,1500,
+110,12/04/2024,depósito,3000,Compra en tienda
+104,2024/10/23,compra,-100,
+112,20/12/2024,retiro,-500,Retiro parcial
+119,17-02-2024,deposito,2500,
+104,08-01-2024,deposito,2500,Ingreso navideño
+118,2024-04-28,deposito,-100,
+117,2024-10-28,deposito,-100,
+105,12-09-2024,deposito,2500,Retiro parcial
+118,20/05/2024,pago,2000,

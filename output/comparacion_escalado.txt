@@ -1,0 +1,9 @@
+Comparacion de parametros de escalado (particiones)
+job;gridSize;chunkSize;durationMs;status;read;write;skip
+comparacionEscaladoGrid1Job;1;10;1219;COMPLETED;945;476;524
+comparacionEscaladoGrid2Job;2;10;635;COMPLETED;945;476;524
+comparacionEscaladoGrid3Job;3;10;623;COMPLETED;945;476;524
+comparacionEscaladoGrid4Job;4;10;629;COMPLETED;945;476;524
+
+Configuracion mas rapida: gridSize=3, chunkSize=10, durationMs=623
+Configuracion de produccion elegida: gridSize=3, chunkSize=10 (equilibrio entre tiempo, hilos y overhead de particiones, alineada a la guia).
